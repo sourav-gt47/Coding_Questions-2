@@ -29,7 +29,7 @@ void solve(int n){
          
      }
     
-    cout << v.back() << endl; //or we can use v.back();
+    cout << v[n-1] << endl; //or we can use v.back();
 }
 
 
